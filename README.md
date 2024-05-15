@@ -1,7 +1,7 @@
-![image](https://github.com/ishantinsights/hypothesis-testing/assets/166279314/dd3dfc8c-e44d-443f-b3b7-5edd3a97b6f9)
+
 
 Problem Statement:
-Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
+Company has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
 Column Profiling: ● datetime: datetime
 
